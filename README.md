@@ -1,16 +1,36 @@
-### Hi there 👋
+브릿지메이트 과제 커뮤니티
 
-<!--
-**bridge-mate/bridge-mate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 커뮤니티로 풀이 및 리뷰가 가능한 코딩테스트 형식의 과제
+- 구직자의 직무역량 평가가 가능한 코딩테스트 형식의 과제
+- 서로 출제하고, 풀어보고, 리뷰하는 커뮤니티를 만듭니다!
 
-Here are some ideas to get you started:
+🎉 이벤트 혜택
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 오류여부, 주제 관련성, 스택 관련성, 난이도 및 연차 관련성 내부 평가 후 우수한 과제 출제자 20명 상금 지급
+- 최우수 5명 : 명당 30만원
+- 우수 5명 : 명당 10만원
+- 미선정 되어도 출제한 과제로 브릿지메이트를 통해 구직자의 채용이 이루어질시 최소 10만원을 지급해드립니다:)
+
+
+과제 업로드 주의사항!
+구글폼 1차 접수
+선정시 상금 지급을 위해 성함, 깃계졍, 포지션, 경력연차, 연락처을 접수해주세요
+과제 접수
+과제주제, 관련 전문 기술(스택), 과제 풀이 선호 경력연차, 난이도(몇년 경력자에게 적합한 과제인지)
+
+과제 작성할때
+스택 : ex) JS, Python, C, C++ 등 과제를 푸는데 필요한 스택을 작성해주세요
+경력연차 : 이 과제를 풀기 적합한 경력 연차를 작성해주세요
+난이도 : 위 경력연차를 고려한 별 5개중 난이도를 설정해주세요
+과제의 주제는 자유 주제로 선정해주시면 됩니다. 
+ex)
+<img src="https://bridgemate.co.kr/uploads/main.png">
+
+주의사항
+- 우수 과제 출제자 파악을 위해 이메일 접수시 꼭 성함, 연락처의 오타가 없는지 확인해주세요
+- 경력년차에 비례한 난이도는 주관적으로 설정해주시면됩니다.
+- 스택은 중복이 가능합니다. 과제 풀이에 필요한 스택을 모두 작성해주시면 됩니다. 
+
+    ex) C++, Java, JS, Kotlin, ...
+
+과제ㅐㅔㅁ냥뢔ㅔㅁ젿ㅎㄹ
