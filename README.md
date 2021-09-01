@@ -28,7 +28,6 @@
 
 - <b style="font-size:20px">과제의 주제는 자유 주제로 선정해주시면 됩니다.</b>
   <br> <b>자유주제 선정 후</b> <br>
- <a href="https://github.com/woowahan-study-personal/java-subway-map-precourse">예시보기 A</a> <br>
  <a href="https://github.com/woowacourse/java-baseball-precourse">예시보기 B</a><br>
  <a href="https://github.com/woowacourse/java-racingcar-precourse">예시보기 C</a> <br>
  <b>위와 같이 명확하게 출제 부탁드립니다</b>
