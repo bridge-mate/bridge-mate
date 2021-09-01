@@ -1,3 +1,4 @@
+
 <h3>🎉 브릿지메이트 과제 출제 이벤트 🎉</h3>
 
 <h4>이벤트 개요</h4><br>
@@ -15,19 +16,22 @@
 
 <h4>❗ 과제 출제 절차</h4>
 <b>1. 구글폼 1차 접수</b> <br>
-: 선정시 상금 지급을 위해 성함, 깃계졍, 포지션, 경력연차, 연락처을 접수해주세요<br>
+: 선정시 상금 지급과 깃허브 계정초대를 위해 성함, 깃계졍, 포지션, 경력연차, 연락처을 접수해주세요<br>
 <a href="">신청접수 바로가기</a><br>
-<b>2. 브릿지메이트 깃 과제 접수</b><br>
-: 과제주제, 관련 전문 기술(스택), 과제 풀이 선호 경력연차, 난이도(몇년 경력자에게 적합한 과제인지)
+<b>2. 브릿지메이트 깃 계정초대 승인</b><br>
+: 깃허브 계정초대가 완료 되면 과제주제, 관련 전문 기술(스택), 과제 풀이 선호 경력연차, 난이도(몇년 경력자에게 적합한 과제인지)
 <h4>📑 과제 출제 방법</h4>
 - 스택 : ex) JS, Python, C, C++ 등 과제를 푸는데 필요한 스택을 Readme에 작성해주세요<br>
 - 경력연차 : 이 과제를 풀기 적합한 경력 연차를 Readme에 작성해주세요<br>
 - 난이도 : 위 경력연차를 고려하여 별 5개 만점의 난이도를 Readme에 작성해주세요<br>
 - 과제의 파일은 폴더 생성후 폴더 이름을 과제의 제목으로 해주신후 올려주시면 됩니다.<br>
-- 과제의 주제는 아래 이미지와 같이 자유 주제로 선정해주시면 됩니다. <br>
-ex)
-<img src="https://bridgemate.co.kr/uploads/main.png">
-출처 : 프로그래머스 (https://programmers.co.kr/learn/challenges)<br>
+
+- <b style="font-size:20px">과제의 주제는 자유 주제로 선정해주시면 됩니다.</b>
+  <br> <b>자유주제 선정 후</b> <br>
+ <a href="https://github.com/woowahan-study-personal/java-subway-map-precourse">예시보기 A</a> <br>
+ <a href="https://github.com/woowacourse/java-baseball-precourse">예시보기 B</a><br>
+ <a href="https://github.com/woowacourse/java-racingcar-precourse">예시보기 C</a> <br>
+ <b>위와 같이 명확하게 출제 부탁드립니다</b>
 
 <h4>❌주의사항</h4>
 - 우수 과제 출제자 파악을 위해 이메일 접수시 꼭 성함, 연락처의 오타가 없는지 확인해주세요<br>
