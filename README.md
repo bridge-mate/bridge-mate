@@ -26,7 +26,7 @@
   2. 구글폼 접수<br>
   : 선정시 상금 지급을 위해 성함, 깃 계정, 포지션, 경력연차, 연락처를 접수해주세요<br>
   : 본인 깃 계정에 업로드한 깃 URL 입력(필수)<br>
-  <a href="">신청접수 바로가기</a><br>
+  <a href="https://forms.gle/NUjxP2zwgQYLkPUV8">신청접수 바로가기</a><br><br>
 - <b style="font-size:20px">과제의 주제는 자유 주제로 선정해주시면 됩니다.</b>
   <br> <b>자유주제 선정 후</b> <br>
  <a href="https://github.com/woowacourse/java-baseball-precourse">예시보기 A</a><br>
